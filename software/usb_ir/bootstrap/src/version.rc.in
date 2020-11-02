@@ -1,6 +1,6 @@
 // Microsoft Visual C++ generated resource script.
 //
-#include "..\..\..\Version\release.h"
+//#include "..\..\..\Version\release.h"
 #include "..\..\..\Version\version.h"
 
 #define APSTUDIO_READONLY_SYMBOLS
